@@ -1,20 +1,26 @@
 {
-    "type": "module",
-    "name": "zxasp-pagination",
-    "version": "1.0.0",
-    "description": "A flexible pagination library for client and server-side data.",
-    "main": "index.js",
-    "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/azissofyanp/zxasp-pagination"
-    },
-    "author": "Azis Sofyan Prasetyo",
-    "license": "MIT",
-    "dependencies": {
-      "axios": "^1.1.0"
-    }
-  }
-  
+  "type": "module",
+  "name": "@azissofyanp/zxasp-pagination",
+  "version": "1.0.1",
+  "description": "A flexible pagination library for client and server-side data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azissofyanp/zxasp-pagination.git"
+  },
+  "author": "Azis Sofyan Prasetyo",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.1.0"
+  },
+  "bugs": {
+    "url": "https://github.com/azissofyanp/zxasp-pagination/issues"
+  },
+  "homepage": "https://github.com/azissofyanp/zxasp-pagination#readme",
+  "keywords": [
+    "pagination"
+  ]
+}

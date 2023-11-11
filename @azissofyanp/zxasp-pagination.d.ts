@@ -1,0 +1,1 @@
+declare module '@azissofyanp/zxasp-pagination/index'
